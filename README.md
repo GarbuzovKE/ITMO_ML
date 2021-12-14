@@ -1,3 +1,3 @@
 # ITMO_ML
- Test string
+ Here is my projects, connected with studying ML in ITMO 
  
